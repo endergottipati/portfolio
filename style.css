@@ -181,6 +181,7 @@ h3{
              position: relative;
              padding-left: 1rem;
              padding-right: 1rem;
+             padding-top: 4rem;
            }
            #experience h2{
              color: #3e6060;
@@ -196,7 +197,9 @@ h3{
              padding-bottom: 2rem;
              -webkit-box-shadow: 0px 4px 7px 0px rgba(54,54,54,1);
              -moz-box-shadow: 0px 4px 7px 0px rgba(54,54,54,1);
-             box-shadow: 0px 4px 7px 0px rgba(54,54,54,1);    }
+             box-shadow: 0px 4px 7px 0px rgba(54,54,54,1);
+
+           }
            #project{
              position: relative;
              padding-top: 2rem;
@@ -222,6 +225,7 @@ h3{
 
        #resume{
          position: relative;
+         padding-top: 2rem;
 
        }
 
@@ -353,7 +357,7 @@ box-shadow: 0px 4px 7px 0px rgba(54,54,54,1);
     #project{
       position: relative;
       /* margin-top: 95rem; */
-      padding-top: 2rem;
+      padding-top: 4rem;
       padding-left: 1rem;
       padding-right: 1rem;
     }
